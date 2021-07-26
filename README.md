@@ -5,7 +5,7 @@ Master of Public Management ([Instituto de Estudios Superiores de Administració
 Econometrics.
 
 🌱 I’m currently learning the implementation of experimental and quasi-experimental research designs in R and STATA, the use of text
-editors (i.e., Atom, Emacs, Vim) in my daily work, the content and empirical evaluation of current policy learning theories and the
+editors (i.e., VSCode, Atom, Vim) in my daily work, the content and empirical evaluation of current policy learning theories and the
 details of causal inference.
 
 💞️ I’m looking to collaborate on the development of code for causal inference and the research of policy learning.
