@@ -1,11 +1,11 @@
 👋 Hi, I’m Jesús Marcano. I hold a BA in Economics ([Universidad Central de Venezuela, UCV](http://www.ucv.ve/)) and I'm finishing up a
 Master of Public Management ([Instituto de Estudios Superiores de Administración, IESA](http://www.iesa.edu.ve/)).
 
-👀 I’m interested in Impact Evaluation.
+👀 I’m interested in impact evaluation, policy learning and political economy.
 
-🌱 I’m currently learning the principles and recent contributions on causal inference.
+🌱 I’m currently learning foundations of causal inference, estimators for quasi-experimental research, leading practices in coding for data analysis, policy learning theories and political economy theories.
 
-💞️ I’m looking to collaborate on developing code for causal inference.
+💞️ I’m looking to collaborate on developing code for causal inference and impact evaluation.
 
 📫 You can reach me by e-mail: j.leo.marcano@gmail.com.
 
