@@ -1,11 +1,11 @@
 👋 Hi, I am Jesús Marcano. I hold a BA in Economics ([Universidad Central de Venezuela, UCV](http://www.ucv.ve/)) and a
-Master of Public Management ([Instituto de Estudios Superiores de Administración, IESA](http://www.iesa.edu.ve/)).
+Master of Public Management ([Instituto de Estudios Superiores de Administración, IESA](http://www.iesa.edu.ve/)). 
 
-👀 I am interested in public policy and international development.
+👀 I am interested in data analysis, statistics and machine learning, with a focus on building solutions and creating knowledge to solve the most important issues in our world.
 
-🌱 I am continuously learning about the most innovative and effective policies that can be implemented to tackle the most pressing international development issues. In addition, I am constantly learning about the latest and most useful research methods that may be applied to conduct research at the intersection of public policy and international development.
+🌱 I am constantly learning about the latest methods or frameworks that may be used to tackle problems in which data analysis and modelling are needed.
 
-💞️ I am looking to collaborate on developing code for causal and descriptive data analysis.
+💞️ I am looking to collaborate on developing code to analyze and model data that might be useful to improve the world.
 
 📫 You can reach me by e-mail: j.leo.marcano@gmail.com.
 
